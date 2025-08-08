@@ -47,7 +47,7 @@ Feel free to send me an email! 👈🏻
 
 嘿！你竟然看到了这里，我是 **Fitia**，交个朋友吧~ (/ω＼)
 
-- 略懂点 **[化学工程]()**！不过我更愿意把自己看做科研人，打工狗，摸鱼专家，专门摸鱼划水，blahblah…<br />
+- 略懂点 **化学工程**！不过我更愿意把自己看做科研人，打工狗，摸鱼专家，专门摸鱼划水，blahblah…<br />
 - ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff)
   ![Julia](https://img.shields.io/badge/-Julia-9558A1?logo=julia&logoColor=fff)
   ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=fff)
